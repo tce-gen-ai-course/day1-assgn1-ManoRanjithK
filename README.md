@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R7o6sWM-)
 # 🚀 TCE Gen AI Course - Perceptron Hands-On Assignment
 
 Welcome to the hands-on assignment for the Foundations of Deep Learning and Generative AI course. This repository contains the starter code for your Perceptron practical session.
